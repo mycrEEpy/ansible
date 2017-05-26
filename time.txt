@@ -1,0 +1,12 @@
+before:
+    site:       real    0m31.586s
+                user    0m5.338s
+                sys     0m2.027s
+
+    status:     real    0m3.736s
+                user    0m1.574s
+                sys     0m0.730s
+
+    restart:    real    0m19.572s
+                user    0m1.971s
+                sys     0m0.950s
