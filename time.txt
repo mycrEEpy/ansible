@@ -10,3 +10,15 @@ before:
     restart:    real    0m19.572s
                 user    0m1.971s
                 sys     0m0.950s
+after:
+    site:       real    0m11.259s
+                user    0m4.252s
+                sys     0m1.416s
+
+    status:     real    0m2.109s
+                user    0m1.107s
+                sys     0m0.463s
+
+    restart:    real    0m8.094s
+                user    0m1.225s
+                sys     0m0.519s
